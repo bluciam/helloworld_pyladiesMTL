@@ -1,7 +1,7 @@
 # Enter the one one-liner here that comes to mind during the workshop. 
 # The more the merrier!
 
-<<<<<<< HEAD
+--------------------------------------------------------------------------------------------------
 
 ‘We all change. When you think about it, we are all different people, all through our lives.’
 ‘You gotta keep moving, so long as you remember all the people that you used to be.’
@@ -9,6 +9,8 @@
 ‘I will always remember when the Doctor was me.’
 
 - Doctor Who # 11
-=======
+
+--------------------------------------------------------------------------------------------------
+
 Repeat until understood!
->>>>>>> 86e4d0a34c62f1badc4f2e8f09dad1f138a57da1
+
