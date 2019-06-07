@@ -12,4 +12,4 @@ pull requests and comments.
 
 If you have any comments, corrections or improvements please let me know. 
 
-Let's have fun.
+Let's have lots of fun.
